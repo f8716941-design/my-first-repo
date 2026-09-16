@@ -1,0 +1,51 @@
+/* css decleration */
+
+/* selector{ */
+    /* property:value; */
+    /* property:value; */
+/* } */
+
+*{
+    margin:0;
+}
+
+div {
+
+    /* background : tomato;   */
+    width: 300px;
+    display: inline-block;
+    padding: 20px; ;  
+} 
+
+
+
+
+
+
+/* selection by id */
+#firstdiv{ 
+background:tomato ;
+}
+
+/* selection by class */
+.seconddiv{
+    background: #d7d7d7 
+}
+
+.thirddiv{
+    background-color: blue;
+}
+
+section{
+    /* background-color: black; */
+    /* height: 250px; */
+    width: 90%;
+    margin: 40px auto;
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+    font-weight: 700;
+}
